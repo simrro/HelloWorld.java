@@ -19,6 +19,8 @@ public class HelloWorld {
         String a = "Username:";
         System.out.println("HELLO-WORLD");
         System.out.println(a+" simrro's here!");
+        System.out.println("I've been here!");
+        System.out.println("Shelly Ancheta");
     }
     
 }
